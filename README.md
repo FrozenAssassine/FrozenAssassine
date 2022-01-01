@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello , I'm Julius - aka FrozenAssassine 👋
+## I'm a hobbie sofwaredeveloper and designer!
+- 🇩🇪 I'm from Germany 
+
 
 <!--
 **FrozenAssassine/FrozenAssassine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
