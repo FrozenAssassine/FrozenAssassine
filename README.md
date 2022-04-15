@@ -9,7 +9,7 @@
 ### Connect with me:
 <a href="https://www.instagram.com/frozenassassine/">
     <img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white">
-</a
+</a>
 <a href="https://stackoverflow.com/users/14772994/frozenassassine">
     <img align="left" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white">
 </a>
