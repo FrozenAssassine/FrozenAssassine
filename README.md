@@ -31,4 +31,4 @@
 #
 
 <img align="left" alt="Hexeptions's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrozenAssassine&show_icons=true&hide_border=true&theme=radical" />
-<img align="right" alt="Hexeptions's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FrozenAssassine&show_icons=true&hide_border=true&theme=radical" />
+<img align="center" alt="Hexeptions's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FrozenAssassine&show_icons=true&hide_border=true&theme=radical" />
