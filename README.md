@@ -5,14 +5,12 @@
 - 🧑‍💻 I'm 15 years old
 - 🚩 I'm from Germany
 
-<br >
 
 ### Connect with me:
 <a href="https://www.instagram.com/frozenassassine/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white">
 </a>
 
-<br >
 <br >
 
 ### Languages and Tools:
@@ -25,7 +23,6 @@
 <img align="left" src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white">
 <img align="left" src="	https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white	https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white">
 
-<br >
 <br >
 
 #
