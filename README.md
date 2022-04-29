@@ -24,7 +24,7 @@
 <img align="left" src="https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
 <img align="left" src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white">
-<img align="left" src="	https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white	https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white">
+<img align="left" src="	https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white">
 
 <br >
 
