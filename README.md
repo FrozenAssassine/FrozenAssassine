@@ -2,7 +2,7 @@
 ## I'm a software developer, designer and creator!
 - 🔭 I’m currently working on a texteditor for Windows
 - 🌱 I’m currently learning Website development
-- 🧑‍💻 I'm 15 years old
+- 🧑‍💻 I'm 16 years old
 - 🚩 I'm from Germany
 
 
