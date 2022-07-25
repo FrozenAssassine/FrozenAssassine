@@ -30,12 +30,13 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" title="Inkscape" alt="Inkscape" width="40" height="40">&nbsp;
 
-
-
 </div>
 <br >
-  
+
 #
 
-<img align="left" alt="Hexeptions's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrozenAssassine&show_icons=true&hide_border=true&theme=radical" />
-<img align="center" alt="Hexeptions's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FrozenAssassine&show_icons=true&hide_border=true&theme=radical" />
+<div align="center">
+<img src="https://github.com/FrozenAssassine/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only">
+<img src="https://github.com/FrozenAssassine/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only">
+</div>
+
