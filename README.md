@@ -16,6 +16,14 @@
 
 <br >
 
+### My Website:
+
+<a href="https://frozenassassine.github.io">
+<img height="50px" width="auto" src="https://media.giphy.com/media/rvUbaxVpe87qErZ6yE/giphy.gif">
+</a>
+
+<br >
+
 ### Languages and Tools:
 
 <div>
@@ -34,9 +42,14 @@
 <br >
 
 #
+### Some statistics:
 
-<div align="center">
+<div align="left">
 <img src="https://github.com/FrozenAssassine/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only">
 <img src="https://github.com/FrozenAssassine/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only">
 </div>
+
+### My Contributions:
+
+<img src="https://ghchart.rshah.org/FrozenAssassine" alt="My Contributions" />
 
