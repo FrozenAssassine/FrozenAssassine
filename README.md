@@ -51,5 +51,4 @@
 
 ### My Contributions:
 
-<img src="https://ghchart.rshah.org/FrozenAssassine" alt="My Contributions" />
-
+<img src="https://github.com/FrozenAssassine/FrozenAssassine/blob/output/github-contribution-grid-snake.svg" alt="My Contributions as Snake" />
