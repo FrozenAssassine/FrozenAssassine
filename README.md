@@ -37,8 +37,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" title="Inkscape" alt="Inkscape" width="40" height="40">&nbsp;
-
 </div>
+
 <br >
 
 #
@@ -47,7 +47,9 @@
 <div align="left">
 <img src="https://github.com/FrozenAssassine/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only">
 <img src="https://github.com/FrozenAssassine/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only">
+<img src="https://github-readme-stats.vercel.app/api?username=FrozenAssassine&show_icons=true&theme=dark&border_color=gray">
 </div>
+
 
 ### My Contributions:
 
