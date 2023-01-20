@@ -5,7 +5,7 @@
 - 🧑‍💻 I'm 16 years old
 - 🚩 I'm from Germany
 
-#### Programming time since 06.11.2022:
+#### Programming time since November 6th, 2022:
 <img src="https://wakatime.com/badge/user/1ce7d4e7-d3a9-45a5-bea0-e04995db707c.svg" />
 
 ### Connect with me:
