@@ -1,7 +1,7 @@
 ### Hello , I'm Julius - aka FrozenAssassine 👋
 ## I'm a software developer, designer and creator!
-- 🔭 I’m currently working on a textbox with Syntaxhighlighting for Windows UWP
-- 🌱 I’m currently learning Website development
+- 🔭 I’m currently working on a texteditor for Windows
+- 🌱 I’m currently learning artificial intelligence and machine learning.
 - 🧑‍💻 I'm 16 years old
 - 🚩 I'm from Germany
 
