@@ -1,7 +1,7 @@
 ### Hello , I'm Julius - aka FrozenAssassine 👋
 ## I'm a software developer, designer and creator!
 - 🌱 I’m currently learning artificial intelligence and machine learning.
-- 🧑‍💻 I'm 16 years old
+- 🧑‍💻 I'm 17 years old
 - 🚩 I'm from Germany
 
 #### Programming time since November 6th, 2022:
