@@ -1,8 +1,9 @@
-### Hello , I'm Julius - aka FrozenAssassine 👋
+### Hello, I'm Julius - aka FrozenAssassine 👋
 ## I'm a software developer, designer and creator!
 - 🌱 I’m currently learning artificial intelligence and machine learning.
 - 🧑‍💻 I'm 17 years old
 - 🚩 I'm from Germany
+- 👨‍👩‍👧‍👦 Coolest Guys: <a href="https://github.com/Sna8xs">@Sna8xs</a> <a href="https://github.com/Phill030">@Phill030</a> <a href="https://github.com/Nathans-SushiCat">@Nathans-SushiCat</a> <a href="https://github.com/finn-freitag">@finn-freitag</a>
 
 #### Programming time since November 6th, 2022:
 <img src="https://wakatime.com/badge/user/1ce7d4e7-d3a9-45a5-bea0-e04995db707c.svg" />
@@ -61,6 +62,7 @@
 <img src="https://github.com/FrozenAssassine/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only">
 <img src="https://github.com/FrozenAssassine/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only">
 <img src="https://github-readme-stats.vercel.app/api?username=FrozenAssassine&show_icons=true&theme=dark&border_color=gray">
+<img src="https://streak-stats.demolab.com?user=FrozenAssassine&show_icons=true&theme=dark&border_color=gray">
 </div>
 
 
