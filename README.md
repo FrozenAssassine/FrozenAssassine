@@ -22,7 +22,7 @@
 
 ### My Website:
 
-<a href="https://frozenassassine.github.io">
+<a href="http://frozenassassine.de">
 <img height="50px" width="auto" src="https://media.giphy.com/media/rvUbaxVpe87qErZ6yE/giphy.gif">
 </a>
 
