@@ -4,11 +4,17 @@
 - 🧑‍💻 I'm 17 years old
 - 🚩 I'm from Germany
 - 👨‍👩‍👧‍👦 Coolest Guys: <a href="https://github.com/Sna8xs">@Sna8xs</a> <a href="https://github.com/Phill030">@Phill030</a> <a href="https://github.com/Nathans-SushiCat">@Nathans-SushiCat</a> <a href="https://github.com/finn-freitag">@finn-freitag</a>
-
+   
 #### Programming time since November 6th, 2022:
 <a href="https://wakatime.com/@FrozenAssassine">
     <img src="https://wakatime.com/badge/user/1ce7d4e7-d3a9-45a5-bea0-e04995db707c.svg" />
 </a>
+
+#### Typing at warp speed! Check out my stats here. ⌨️🚀
+<a href="https://monkeytype.com/profile/FrozenJulius">
+    <img src="https://img.shields.io/badge/Monkeytype-WPM-blue"/>
+</a>
+</div>
 
 ### Connect with me:
 <a href="https://www.instagram.com/frozenassassine/">
