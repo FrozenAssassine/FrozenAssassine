@@ -34,6 +34,10 @@
 
 <br >
 
+### Support my work
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?business=julius@frozenassassine.de&no_recurring=0&item_name=Support+FrozenAssassines+Work&currency_code=EUR)
+
 ### Languages:
 
 <div >
