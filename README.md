@@ -67,6 +67,22 @@
 </div>
 
 <br >
+
+<h3>Download my Apps:</h3>
+<div>
+   
+<a href="https://apps.microsoft.com/detail/fastedit/9NTQ53W18DPW?hl=en-us&gl=US">
+   <img width="50" height="50" src="https://github.com/FrozenAssassine/Fastedit/blob/master/Fastedit/Assets/AppIcon/Icon.png?raw=true"/>
+</a>
+<a href="https://apps.microsoft.com/detail/ease-pass/9NQPF80923F5?ocid=pdpshare&hl=en-us&gl=us">
+   <img width="50" height="50" src="https://github.com/FrozenAssassine/EasePass/blob/master/EasePass/Assets/AppIcon/Icon.png"/>
+</a>
+<a href="https://apps.microsoft.com/detail/fluentedit/9NWL9M9JPQ36?hl=en-us&gl=US">
+   <img width="50" height="50" src="https://github.com/FrozenAssassine/FluentEdit/blob/master/FluentEdit/Assets/Square44x44Logo.scale-400.png?raw=true"/>
+</a>
+</div>
+</br>
+
 <h3>Other stuff:</h3>
 
 - <a href="http://frozenassassine.de/invisiblecharacter/">Invisible Character</a>
