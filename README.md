@@ -67,8 +67,9 @@
 </div>
 
 <br >
+<h3>Useful stuff:</h3>
+<a href="http://frozenassassine.de/invisiblecharacter/">Invisible Character</a>
 
-#
 ### Some statistics:
 
 <div align="left">
