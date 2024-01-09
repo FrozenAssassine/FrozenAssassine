@@ -86,10 +86,11 @@
 <h3>Other stuff:</h3>
 
 - <a href="http://frozenassassine.de/invisiblecharacter/">Invisible Character</a>
+- <a href="http://youtube.com/@droneventurefpv/">Youtube</a>
+- <a href="http://games.frozenassassine.de/">Games</a>
 - <a href="http://badges.frozenassassine.de/">Live Badges</a>
 - <a href="http://fastedit.frozenassassine.de/">Fastedit</a>
 - <a href="http://easepass.frozenassassine.de/">Ease Pass</a>
-
 
 ### Some statistics:
 
