@@ -1,7 +1,7 @@
 ### Hello, I'm Julius - aka FrozenAssassine 👋
 ## I'm a software developer, designer and creator!
-- 🌱 I’m currently learning Unreal Engine 5 so I am inactive here
-- 👨‍💻<img src="https://badges.frozenassassine.de/age?suf=I'm+&&pref=+years+old&bday=2006-06-10&clr=ffffff&fs=17"/>
+- 🌱 I’m currently trying to update/revive some of my older projects
+- 👨‍💻<img src="https://badges.frozenassassine.de/age?suf=I'm+&&pref=+years+old&bday=2006-06-10&clr=ffffff&fs=16&ff=Segoe+UI"/>
 - 🚩 I'm from Germany
 - 👨‍👩‍👧‍👦 Coolest Guys: <a href="https://github.com/Sna8xs">@Sna8xs</a> <a href="https://github.com/Phill030">@Phill030</a> <a href="https://github.com/Nathans-SushiCat">@Nathans-SushiCat</a> <a href="https://github.com/finn-freitag">@finn-freitag</a>
    
