@@ -28,7 +28,7 @@
 
 ### My Website:
 
-<a href="http://frozenassassine.de">
+<a href="https://frozenassassine.de">
 <img height="50px" width="auto" src="https://media.giphy.com/media/rvUbaxVpe87qErZ6yE/giphy.gif">
 </a>
 
@@ -85,12 +85,12 @@
 
 <h3>Other stuff:</h3>
 
-- <a href="http://frozenassassine.de/invisiblecharacter/">Invisible Character</a>
-- <a href="http://youtube.com/@droneventurefpv/">Youtube</a>
-- <a href="http://games.frozenassassine.de/">Games</a>
-- <a href="http://badges.frozenassassine.de/">Live Badges</a>
-- <a href="http://fastedit.frozenassassine.de/">Fastedit</a>
-- <a href="http://easepass.frozenassassine.de/">Ease Pass</a>
+- <a href="https://frozenassassine.de/invisiblecharacter/">Invisible Character</a>
+- <a href="https://youtube.com/@droneventurefpv/">Youtube</a>
+- <a href="https://games.frozenassassine.de/">Games</a>
+- <a href="https://badges.frozenassassine.de/">Live Badges</a>
+- <a href="https://fastedit.frozenassassine.de/">Fastedit</a>
+- <a href="https://easepass.frozenassassine.de/">Ease Pass</a>
 
 ### Some statistics:
 
