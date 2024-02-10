@@ -92,6 +92,10 @@
 - <a href="https://fastedit.frozenassassine.de/">Fastedit</a>
 - <a href="https://easepass.frozenassassine.de/">Ease Pass</a>
 
+<h3>Api's:</h3>
+
+- <a href="https://frozenassassine.de/ner">Named Entitiy Recognition (send: {"text": "TEXT HERE"})</a>
+
 ### Some statistics:
 
 <div align="left">
