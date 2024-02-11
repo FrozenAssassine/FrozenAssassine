@@ -94,7 +94,8 @@
 
 <h3>Api's:</h3>
 
-- <a href="https://frozenassassine.de/ner">Named Entitiy Recognition (send: {"text": "TEXT HERE"})</a>
+- <a href="https://frozenassassine.de/api/ner">Named Entity Recognition (send: {"text": "TEXT HERE"})</a>
+- <a href="https://frozenassassine.de/api/postag">Part of speech Tagging (send: {"text": "TEXT HERE"})</a>
 
 ### Some statistics:
 
