@@ -4,6 +4,7 @@
 - 👨‍💻<img src="https://badges.frozenassassine.de/age?suf=I'm+&pref=+years+old&bday=2006-06-10&clr=ffffff&fs=16&ff=Segoe+UI"/>
 - 🚩 I'm from Germany
 - 👨‍👩‍👧‍👦 Coolest Guys: <a href="https://github.com/Sna8xs">@Sna8xs</a> <a href="https://github.com/Phill030">@Phill030</a> <a href="https://github.com/Nathans-SushiCat">@Nathans-SushiCat</a> <a href="https://github.com/finn-freitag">@finn-freitag</a>
+- 🎮 Best game <a href="https://github.com/Nathans-SushiCat/Java-Game">Java-Game</a> from my friend <a href="https://github.com/Nathans-SushiCat">@Nathans-SushiCat</a></a>
    
 #### Programming time since November 6th, 2022:
 <a href="https://wakatime.com/@FrozenAssassine">
