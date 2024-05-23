@@ -86,6 +86,7 @@
 
 <h3>Other stuff:</h3>
 
+- <a href="https://quicknav.frozenassassine.de/">QuickNav</a>
 - <a href="https://frozenassassine.de/invisiblecharacter/">Invisible Character</a>
 - <a href="https://youtube.com/@droneventurefpv/">Youtube</a>
 - <a href="https://games.frozenassassine.de/">Games</a>
