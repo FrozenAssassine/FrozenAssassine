@@ -1,6 +1,6 @@
 ### Hello, I'm Julius - aka FrozenAssassine 👋
 ## I'm a software developer, designer and creator!
-- 🌱 I’m currently working on <a href="https://github.com/FrozenAssassine/QuickNav">QuickNav</a>
+- 🌱 I’m currently learning Neural Network dev from scratch with CUDA 
 - 👨‍💻<img src="https://badges.frozenassassine.de/age?suf=I'm+&pref=+years+old&bday=2006-06-10&clr=ffffff&fs=16&ff=Segoe+UI"/>
 - 🚩 I'm from Germany
 - 👨‍👩‍👧‍👦 Coolest Guys: <a href="https://github.com/Sna8xs">@Sna8xs</a> <a href="https://github.com/Phill030">@Phill030</a> <a href="https://github.com/Nathans-SushiCat">@Nathans-SushiCat</a> <a href="https://github.com/finn-freitag">@finn-freitag</a>
