@@ -5,7 +5,7 @@
 - 🚩 **I'm** from Germany
 - 🧬 **I** love to do crazy stuff, sometimes useful sometimes just for fun or to learn something new.
 - 👨‍👩‍👧‍👦 **Coolest Guys**: <a href="https://github.com/Sna8xs">@Sna8xs</a> <a href="https://github.com/Phill030">@Phill030</a> <a href="https://github.com/Nathans-SushiCat">@Nathans-SushiCat</a> <a href="https://github.com/finn-freitag">@finn-freitag</a>
-- 📈 **Development**: Software Development, AI, Game Development, Web Development, Hardware Development, Embedded Systems, Security, Server & Infrastructure, Automation
+- 📈 Software Development, AI, Game Development, Web Development, Hardware Development, Embedded Systems, Server
 
 #### Programming time since November 6th, 2022:
 <a href="https://wakatime.com/@FrozenAssassine">
