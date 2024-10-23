@@ -1,6 +1,6 @@
 ### Hello, I'm Julius - aka FrozenAssassine 👋
 ## I'm a software developer, designer and creator!
-- 🛸 **I’m** currently building a gamestudio with <a href="https://github.com/Nathans-SushiCat">@SushiCat</a> 
+- 🛸 Check out my first game <a href="https://play.google.com/store/apps/details?id=com.FrozenCatStudios.UltimateRunner&pli=1">Ultimate Runner</a>  made with <a href="https://github.com/Nathans-SushiCat">@SushiCat</a>
 - 👨‍💻<img src="https://badges.frozenassassine.de/age?suf=I'm+&pref=+years+old&bday=2006-06-10&clr=ffffff&fs=16&ff=Segoe+UI"/>
 - 🚩 **I'm** from Germany
 - 🧬 **I** love to do crazy stuff, sometimes useful sometimes just for fun or to learn something new.
