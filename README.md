@@ -1,11 +1,11 @@
 ### Hello, I'm Julius - aka FrozenAssassine 👋
 ## I'm a software developer, designer and creator!
 - 🛸 Check out my first game <a href="https://play.google.com/store/apps/details?id=com.FrozenCatStudios.UltimateRunner&pli=1">Ultimate Runner</a>  made with <a href="https://github.com/Nathans-SushiCat">@SushiCat</a>
-- 👨‍💻<img src="https://badges.frozenassassine.de/age?suf=I'm+&pref=+years+old&bday=2006-06-10&clr=ffffff&fs=16&ff=Segoe+UI"/>
+- 👨‍💻 **I'm** 18 years old
 - 🚩 **I'm** from Germany
 - 🧬 **I** love to do crazy stuff, sometimes useful sometimes just for fun or to learn something new.
 - 👨‍👩‍👧‍👦 **Coolest Guys**: <a href="https://github.com/Sna8xs">@Sna8xs</a> <a href="https://github.com/Phill030">@Phill030</a> <a href="https://github.com/Nathans-SushiCat">@Nathans-SushiCat</a> <a href="https://github.com/finn-freitag">@finn-freitag</a>
-- 📈 Software dev, AI, Game dev, Web dev, Hardware dev, Embedded Systems, Server
+- 📈 Software/Game/Web -Dev, AI, Hardware, Embedded Systems, Server, Electronics
 
 #### Programming time since November 6th, 2022:
 <a href="https://wakatime.com/@FrozenAssassine">
