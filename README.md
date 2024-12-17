@@ -82,6 +82,7 @@
 
 <h3>Other stuff:</h3>
 
+- <a href="https://ultimaterunner.frozenassassine.de/">Ultimate Runner</a>
 - <a href="https://quicknav.frozenassassine.de/">QuickNav</a>
 - <a href="https://frozenassassine.de/invisiblecharacter/">Invisible Character</a>
 - <a href="https://youtube.com/@droneventurefpv/">Youtube</a>
