@@ -83,13 +83,13 @@
 <h3>Other stuff:</h3>
 
 - <a href="https://ultimaterunner.frozenassassine.de/">Ultimate Runner</a>
+- <a href="https://easepass.frozenassassine.de/">Ease Pass</a>
+- <a href="https://fastedit.frozenassassine.de/">Fastedit</a>
+- <a href="https://frozenassassine.de/xor_demo">XOR-Neural Network Demo</a>
 - <a href="https://quicknav.frozenassassine.de/">QuickNav</a>
 - <a href="https://frozenassassine.de/invisiblecharacter/">Invisible Character</a>
-- <a href="https://youtube.com/@droneventurefpv/">Youtube</a>
 - <a href="https://games.frozenassassine.de/">Games</a>
-- <a href="https://badges.frozenassassine.de/">Live Badges</a>
-- <a href="https://fastedit.frozenassassine.de/">Fastedit</a>
-- <a href="https://easepass.frozenassassine.de/">Ease Pass</a>
+- <a href="https://youtube.com/@droneventurefpv/">Youtube</a>
 
 <h3>Api's:</h3>
 
