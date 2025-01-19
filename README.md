@@ -26,7 +26,7 @@
 
 ### My Website:
 
-<a href="https://frozenassassine.de">
+<a href="https://frozenassassine.de?ref=github-readme">
 <img height="50px" width="auto" src="https://media.giphy.com/media/rvUbaxVpe87qErZ6yE/giphy.gif">
 </a>
 
@@ -67,7 +67,7 @@
 
 <div>
     <a href="https://play.google.com/store/apps/details?id=com.FrozenCatStudios.UltimateRunner">
-       <img width="50" height="50" src="https://ultimaterunner.frozenassassine.de/assets/ultimaterunner/icon.png"/>
+       <img width="50" height="50" src="https://ultimaterunner.frozenassassine.de/assets/ultimaterunner/icon.png?ref=github-readme"/>
     </a>
     <a href="https://apps.microsoft.com/detail/fastedit/9NTQ53W18DPW?hl=en-us&gl=US">
        <img width="50" height="50" src="https://github.com/FrozenAssassine/Fastedit/blob/master/Fastedit/Assets/AppIcon/Icon.png?raw=true"/>
@@ -87,13 +87,13 @@
 
 <h3>Other stuff:</h3>
 
-- <a href="https://ultimaterunner.frozenassassine.de/">Ultimate Runner</a>
-- <a href="https://easepass.frozenassassine.de/">Ease Pass</a>
-- <a href="https://fastedit.frozenassassine.de/">Fastedit</a>
-- <a href="https://frozenassassine.de/xor_demo">XOR-Neural Network Demo</a>
-- <a href="https://frozenassassine.de/invisiblecharacter/">Invisible Character</a>
-- <a href="https://quicknav.frozenassassine.de/">QuickNav</a>
-- <a href="https://games.frozenassassine.de/">Games</a>
+- <a href="https://ultimaterunner.frozenassassine.de/?ref=github-readme">Ultimate Runner</a>
+- <a href="https://easepass.frozenassassine.de/?ref=github-readme">Ease Pass</a>
+- <a href="https://fastedit.frozenassassine.de/?ref=github-readme">Fastedit</a>
+- <a href="https://frozenassassine.de/nn/xor?ref=github-readme">XOR-Neural Network Demo</a>
+- <a href="https://frozenassassine.de/invisiblecharacter?ref=github-readme">Invisible Character</a>
+- <a href="https://quicknav.frozenassassine.de?ref=github-readme">QuickNav</a>
+- <a href="https://games.frozenassassine.de?ref=github-readme">Games</a>
 - <a href="https://youtube.com/@droneventurefpv/">Youtube</a>
 
 <!--
