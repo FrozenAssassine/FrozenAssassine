@@ -67,7 +67,7 @@
 
 <div>
     <a href="https://play.google.com/store/apps/details?id=com.FrozenCatStudios.UltimateRunner">
-       <img width="50" height="50" src="https://ultimaterunner.frozenassassine.de/assets/ultimaterunner/icon.png?ref=github-readme"/>
+       <img width="50" height="50" src="https://ultimaterunner.frozenassassine.de/assets/ultimaterunner/icon.png"/>
     </a>
     <a href="https://apps.microsoft.com/detail/fastedit/9NTQ53W18DPW?hl=en-us&gl=US">
        <img width="50" height="50" src="https://github.com/FrozenAssassine/Fastedit/blob/master/Fastedit/Assets/AppIcon/Icon.png?raw=true"/>
