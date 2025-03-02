@@ -77,13 +77,18 @@
 </div>
 
 ### Statistics:
-
-<a href="https://wakatime.com/@FrozenAssassine">  
+<details>
+<summary>
+    <a href="https://wakatime.com/@FrozenAssassine">  
     <img src="https://wakatime.com/badge/user/1ce7d4e7-d3a9-45a5-bea0-e04995db707c.svg" />  
 </a>
+</summary>
+
 <div align="left">
     <!-- <img src="https://github.com/FrozenAssassine/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only">  
     <img src="https://github.com/FrozenAssassine/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only">   -->
     <img src="https://github-readme-stats.vercel.app/api?username=FrozenAssassine&show_icons=true&theme=tokyonight">  
     <img src="https://streak-stats.demolab.com?user=FrozenAssassine&theme=tokyonight" alt="GitHub Streak" />
 </div>
+
+</details>
