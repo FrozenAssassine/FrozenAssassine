@@ -84,8 +84,8 @@
 </summary>
 
 <div align="left">
-    <!-- <img src="https://github.com/FrozenAssassine/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only">  
-    <img src="https://github.com/FrozenAssassine/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only">   -->
+    <img src="https://github.com/FrozenAssassine/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only">  
+    <img src="https://github.com/FrozenAssassine/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only"> 
     <img src="https://github-readme-stats.vercel.app/api?username=FrozenAssassine&show_icons=true&theme=tokyonight">  
     <img src="https://streak-stats.demolab.com?user=FrozenAssassine&theme=tokyonight" alt="GitHub Streak" />
 </div>
