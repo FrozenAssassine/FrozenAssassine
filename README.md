@@ -9,6 +9,7 @@
 -   🚩 **Location:** Germany
 
 ### Support my work
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=PPME7KF7KF7QS)
 
 <a href='https://ko-fi.com/K3K819KSLG' target='_blank'>  
     <img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' />  
