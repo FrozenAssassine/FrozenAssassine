@@ -21,7 +21,7 @@
     <img src="https://wakatime.com/badge/user/1ce7d4e7-d3a9-45a5-bea0-e04995db707c.svg" />
 </a> -->
 
-### Languages:
+### Languages
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="Csharp" height="55">&nbsp;
@@ -37,7 +37,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" height="35">&nbsp;
 </div>
 
-### Tools:
+### Tools
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" height="50">&nbsp;
@@ -50,13 +50,18 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" height="25">&nbsp;
 </div>
 
-### My Website:
+### Website
 
 <a href="https://frozenassassine.de?ref=github-readme">  
     <img height="50px" width="auto" src="https://media.giphy.com/media/rvUbaxVpe87qErZ6yE/giphy.gif">  
 </a>
 
-### My Apps & Games:
+### 3d Printing is Cool
+<a href="makerworld.com/de/@FrozenAssassine">
+<img height="50px" width="auto" src="https://github.com/user-attachments/assets/fb491ff2-87ca-4f76-a177-1769515fb9bf" />
+</a>
+
+### Apps & Games
 
 <div>
     <a href="https://play.google.com/store/apps/details?id=com.FrozenCatStudios.UltimateRunner">
@@ -76,7 +81,7 @@
     </a>
 </div>
 
-### Statistics:
+### Stats
 <details>
 <summary>
     <a href="https://wakatime.com/@FrozenAssassine">  
