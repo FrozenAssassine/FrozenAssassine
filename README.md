@@ -42,6 +42,7 @@
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" height="50">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" height="50">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Android Studio" alt="Arch" height="50">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" height="50">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino IDE" alt="Arduino IDE" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" height="35">&nbsp;
