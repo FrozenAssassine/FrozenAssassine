@@ -45,6 +45,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Android Studio" alt="Arch" height="50">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" height="50">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" height="35">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/fusion/fusion-original.svg" title="Fusion360" alt="Fusion360" height="35">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" title="Inkscape" alt="Inkscape" height="35">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine" alt="Unreal Engine" height="25">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" height="25">&nbsp;
