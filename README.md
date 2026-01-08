@@ -7,6 +7,7 @@
 -   👨‍👩‍👧‍👦 **Shoutouts to:** [@finn-freitag](https://github.com/finn-freitag), [@Sna8xs](https://github.com/Sna8xs), [@Nathans-SushiCat](https://github.com/Nathans-SushiCat)
 -   👨‍💻 **Age:** 19
 -   🚩 **Location:** Germany
+-   🎯 I want to share more IoT and hardware projects on GitHub
 
 ### Support my work
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=PPME7KF7KF7QS)
