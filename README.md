@@ -5,7 +5,7 @@
 -   📈 Software/Game/Web Dev, AI, Hardware, Embedded Systems, Server, Electronics, 3D-Print, FPV-Drones
 -   🧬 **I love** creating projects, some practical, some just for fun. Driven by curiosity, learning, and the joy of seeing others enjoy or learn from my work.
 -   👨‍👩‍👧‍👦 **Shoutouts to:** [@finn-freitag](https://github.com/finn-freitag), [@Sna8xs](https://github.com/Sna8xs), [@Nathans-SushiCat](https://github.com/Nathans-SushiCat)
--   👨‍💻 **Age:** 19
+-   👨‍💻 **Age:** 20
 -   🚩 **Location:** Germany
 -   🎯 I want to share more IoT and hardware projects on GitHub
 
